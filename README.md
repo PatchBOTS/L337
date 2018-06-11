@@ -1,13 +1,13 @@
 [!(https://imgur.com/zFueaPk)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 
-**# L3-37 Voice Assistant
-### Please Read Before Downloading 3D File**
+** # L3-37 Voice Assistant**
+** ### Please Read Before Downloading 3D File**
 
-**## Overview**
+** ## Overview**
 
-##CODE
-#Amazon Voice Services Code 
+## CODE
+# Amazon Voice Services Code 
 My friend @henrymendez is helping me with this section.  There may be a video tutorial down the line, but at the very least Henry will be writing a super awesome script to speed up the install process.  Check back. 
 
 #Arduino Code
@@ -18,8 +18,8 @@ The 3D files are free for download.  There will be some updates in the near futu
 
 I'm happy to distribute these files for free but they are not gauranteed to work.  I very big on the "print quick and dirty and fix later" philosophy, so there may be some physcial editing to the parts needed which I did not document. 
 
-**##Changes coming in V2**
-###Physical
+** ## Changes coming in V2**
+### Physical
 At the moment L3's head lists a little to the left. This is because of my 'smart' idea to only attach via the servo spline. I'm going to modify the top of the neck piece to add in a small axle to suppor the load.  Also, I'm going to expand the top of the neck piece to hold some of the components (of which there will hopefully be less of) to take some weight off of the perimeter. 
 ###Electrical
 There is a slight hum to the amplifier. I'm going to do more research on power de-coupling and ground loops to see if I can eliminate it. I have a feeling if I get rid of hte arduino circuit that will help.  Also, I'm hoping to be able to eliminate the SBEC which I'm sure isn't helping anything. 
