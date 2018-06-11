@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/H4KK212-Jss/0.jpg)](https://www.youtube.com/watch?v=H4KK212-Jss)
+[(https://i.imgur.com/zFueaPk.jpg)](https://www.youtube.com/watch?v=H4KK212-Jss)
 
 # L3-37 Voice Assistant
 ### Please Read Before Downloading 3D File
