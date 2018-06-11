@@ -1,4 +1,4 @@
-[!(https://imgur.com/zFueaPk)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 
 # L3-37 Voice Assistant
 ### Please Read Before Downloading 3D File
