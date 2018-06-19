@@ -6,14 +6,13 @@ This video is priority one.   @henrymendez put together a bunch of scripts to ma
 
 
 
-## [Unreleased]
+## [L3-37 Version 2]
 
-## [2.0.0] - 2017-06-20
-### Added
+## [2.0.0] - Coming Soon
+### Definite Changes from V1
+-Removing the Arduino Nano completely.  It's unecessary.  Looking into potentially using pigpio to control the servo. 
+-Removing the Buck Converter and changing it to a better regulated power step down. The current buck is too noisy. 
 
-
-### Changed
-
-
-### Removed
-
+### Possible Changes from V1
+-Changing to a less powerful servo with a servo-block (half 3D printed, half aluminum) to make the head more level and save the SBEC Circuit. 
+-Want to add a better amplification system.  
