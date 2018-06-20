@@ -4,7 +4,8 @@ This file is to keep everyone following up to date on what is happening in betwe
 ## Alexa/Raspberry Pi Tutorial Video
 This video is priority one.   @henrymendez put together a bunch of scripts to make this process super simple.  If you don't want to wait until the video comes out you can hop over to his git and follow those instructions. That will get you to where you need to be in no time flat! [Henry's Github](https://github.com/henrymendez/l3-37-alexa_patchbots) 
 
-
+##File Updates
+I created a new folde called "PartsChanging" in the STL folder.  These parts work as seen in the video, but I"m refining everything for V2 to make it work a little nicer.  Print them if you don't feel like waiting until V2, but V2 will be worth it. 
 
 ## [L3-37 Version 2]
 
