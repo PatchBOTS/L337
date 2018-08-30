@@ -28,3 +28,6 @@ I used a MEGA Scale Servo because I happened to have one on hand.  L3's head cam
 At the moment I'm using a cheap buck converter chip to step down the voltage. I'm going to upgrade this to a board with better voltage stability to hopefully help the amplifier Hum. 
 ### Coding
 I'm going to try to figure out more about coding the pinouts on the Pi.  If I can get two pinouts with one running a software PWM, I can eliminate the Arduino altogether.  I think this is the key to V2. 
+
+
+<a href="https://www.buymeacoffee.com/WjRBDa3dZ" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
